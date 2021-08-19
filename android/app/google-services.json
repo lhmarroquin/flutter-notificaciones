@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637684798995",
+    "project_id": "flutter-notificaciones-465cd",
+    "storage_bucket": "flutter-notificaciones-465cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637684798995:android:51f75316e23f352ff751e6",
+        "android_client_info": {
+          "package_name": "website.ludbynmarroquin.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637684798995-lab2bal571t759tdoia0rn8nfip6n2ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "website.ludbynmarroquin.notificaciones",
+            "certificate_hash": "09c5eaea7db6add9cef0e0d903c83c574d1ad391"
+          }
+        },
+        {
+          "client_id": "637684798995-dcc3u94adh6tjfgbgq90hqoa3tq5kjag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwONWBzfkXt_ozD6d7q8IHzU69WwY4eRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637684798995-dcc3u94adh6tjfgbgq90hqoa3tq5kjag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
